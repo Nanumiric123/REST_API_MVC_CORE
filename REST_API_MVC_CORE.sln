@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31129.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "REST_API_MVC_CORE_WITH_SQL", "REST_API_MVC_CORE_WITH_SQL\REST_API_MVC_CORE_WITH_SQL.csproj", "{21411082-71FE-44F0-9180-EBE80FA20C02}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{21411082-71FE-44F0-9180-EBE80FA20C02}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21411082-71FE-44F0-9180-EBE80FA20C02}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21411082-71FE-44F0-9180-EBE80FA20C02}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21411082-71FE-44F0-9180-EBE80FA20C02}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {60D2B12A-EB42-4443-A237-4049B730BCBE}
+	EndGlobalSection
+EndGlobal
